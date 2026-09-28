@@ -1,0 +1,6 @@
+{
+  "lcp_ms_target": 2500,
+  "inp_ms_target": 200,
+  "cls_target": 0.1,
+  "notes": "Demo performance budget for portfolio use; validate targets against real field data."
+}
